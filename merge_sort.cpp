@@ -1,3 +1,4 @@
+// Merge Sort avg case:O(n log n)   worst case:O(n log n)  (use it  when max_elm- min_elm is large)
 #include<iostream>
 using namespace std;
 void merge(int*arr,int left,int mid,int right){

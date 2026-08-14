@@ -1,3 +1,4 @@
+// Selection Sort avg case:O(n)²   worst case:O(n) 
 #include<iostream>
 using namespace std;
 void selectionSort(int *arr,int n){

@@ -1,4 +1,4 @@
-
+// Insertion Sort avg case:O(n)²   worst case:O(n)² 
 #include<iostream>
 using namespace std;
 void insertionSort(int *arr,int n){

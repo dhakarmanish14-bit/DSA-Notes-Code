@@ -1,3 +1,4 @@
+// Quick Sort avg case:O(n log n)   worst case:O(n)²  
 #include<iostream>
 using namespace std;
 int partition(int *arr,int left,int right){

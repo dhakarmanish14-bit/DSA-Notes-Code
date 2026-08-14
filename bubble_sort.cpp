@@ -1,3 +1,4 @@
+// Bubble Sort avg case:O(n²)   worst case:O(n²)  
 #include<iostream>
 using namespace std;
 void bubbleSort(int *arr,int n){

@@ -1,3 +1,4 @@
+// Count Sort avg case:O(n+k)   worst case:O(n+k)    (use it  when max_elm- min_elm is small)
 #include<iostream>
 using namespace std;
 void countSort(int *arr,int n){
